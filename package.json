@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "github:discordjs/voice",
+    "debug": "^4.4.3",
+    "discord": "^0.8.2",
+    "discord.js-selfbot-v13": "^3.7.1"
+  }
+}
